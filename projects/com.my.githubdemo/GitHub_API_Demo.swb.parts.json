@@ -1,0 +1,15 @@
+{
+  "kind": "sketchware-ai-swb-parts",
+  "format": 1,
+  "name": "GitHub_API_Demo.swb",
+  "size": 16274,
+  "sha256": "2e87f1be53031db057f15660af3d7a0fc15c0d2a75ed126da67de91f780c1ae6",
+  "partBytes": 4194304,
+  "parts": [
+    {
+      "path": "projects/com.my.githubdemo/GitHub_API_Demo.swb",
+      "size": 16274,
+      "sha": "85920e0003bfabac3be80a2cf26708901eb6b33e"
+    }
+  ]
+}

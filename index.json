@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "app": "Sketchware AI",
+  "projects": [
+    {
+      "path": "projects/com.my.githubdemo/GitHub_API_Demo.swb",
+      "name": "GitHub_API_Demo",
+      "package": "com.my.githubdemo",
+      "versionName": "1.0",
+      "time": 1794739177846,
+      "size": 16274,
+      "parts": "projects/com.my.githubdemo/GitHub_API_Demo.swb.parts.json"
+    }
+  ]
+}
